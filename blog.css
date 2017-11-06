@@ -1,0 +1,25 @@
+.row.content{height:1500px;
+}
+.sidenav{
+	background-color: #CCFFFF;
+	height: 100%;
+}
+.col-sm-10{
+	background-color:#CCFFFF;
+	
+}
+footer{
+	background-color:#333300;
+	color:red;
+	padding:50px;
+}
+ @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding:15px;
+      }
+      .row.content {height: auto;} 
+    }
+	.button-text{
+		display: none;
+	}
